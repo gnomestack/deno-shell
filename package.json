@@ -1,0 +1,21 @@
+{
+    "name": "gs_shell",
+    "license": "MIT",
+    "description": "Execute shell commands from Deno",
+    "icon": "https://raw.githubusercontent.com/gnomestack/deno-std/.eng/assets/icon.png",
+    "readme": "./README.md",
+    "module": "./mod.ts",
+    "repository": {
+        "url": "https://github.com/gnomestack/deno-std",
+        "type": "git"
+    },
+    "author": {
+        "name": "BowTiedGnome",
+        "email": "119234633+bowtiedgnome@users.noreply.github.com"
+    },
+    "version": "0.0.0",
+    "deps": {
+        "std": "0.208.0",
+        "gs_std": "0.0.1"
+    }
+}
